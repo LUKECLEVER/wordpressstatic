@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>编程语言 &#8211; 陆尧顶瓜瓜</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
+	<lastBuildDate>Sun, 15 Aug 2021 05:53:43 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>./../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<title>编程语言 &#8211; 陆尧顶瓜瓜</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>浏览器网页刷新设定时间的控制台代码</title>
+		<link>./../../programminglanguage/consolerefresh.html</link>
+					<comments>./../../programminglanguage/consolerefresh.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 10 Aug 2021 11:55:25 +0000</pubDate>
+				<category><![CDATA[java]]></category>
+		<category><![CDATA[编程语言]]></category>
+		<guid isPermaLink="false">https://blog.luyaoguagua.top/?p=1051</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="./../../programminglanguage/consolerefresh.html">浏览器网页刷新设定时间的控制台代码</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-code has-medium-font-size"><code>timeout=prompt("设置每秒刷新次数:");
+count=0
+current=location.href;
+if(timeout>0)
+setTimeout('reload()',1000*timeout);
+else
+location.replace(current);
+function reload(){
+setTimeout('reload()',1000*timeout);
+count++;
+console.log('每（'+timeout+'）秒自动刷新,刷新次数：'+count);
+fr4me='&lt;frameset cols=\'*\'>\n&lt;frame src=\''+current+'\'/>';
+fr4me+='&lt;/frameset>';
+with(document){write(fr4me);void(close())};
+}</code></pre>
+<p><a rel="nofollow" href="./../../programminglanguage/consolerefresh.html">浏览器网页刷新设定时间的控制台代码</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/consolerefresh.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>十进制转二进制</title>
+		<link>./../../programminglanguage/clanguage/decimaltobinary.html</link>
+					<comments>./../../programminglanguage/clanguage/decimaltobinary.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 01:24:53 +0000</pubDate>
+				<category><![CDATA[c/c++]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=921</guid>
+
+					<description><![CDATA[<p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以...<a class="read-more-link button" href="./../../programminglanguage/clanguage/decimaltobinary.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/clanguage/decimaltobinary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
+
+
+
+<p>中文名 十进制转二进制</p>
+
+
+
+<p>外文名 Decimal system to binary system</p>
+
+
+
+<p>适用领域 电子、编程、编码</p>
+
+
+
+<p>应用学科 数学</p>
+
+
+
+<h2>目录</h2>
+
+
+
+<ol><li>1&nbsp;<a href="./../../go/2137/index.html" rel="nofollow">二进制转十进制</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/7102/index.html" rel="nofollow">方法一</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/4780/index.html" rel="nofollow">方法二</a></li><li>2&nbsp;<a href="./../../go/9953/index.html" rel="nofollow">十进制转二进制</a></li></ol>
+
+
+
+<p></p>
+<p><a rel="nofollow" href="./../../programminglanguage/clanguage/decimaltobinary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/clanguage/decimaltobinary.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python（计算机程序设计语言）</title>
+		<link>./../../programminglanguage/python/python.html</link>
+					<comments>./../../programminglanguage/python/python.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2020 00:57:07 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=915</guid>
+
+					<description><![CDATA[<p>Python是一种跨平台的计算机程序设计语言。 是一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言...<a class="read-more-link button" href="./../../programminglanguage/python/python.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/python/python.html">Python（计算机程序设计语言）</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Python是一种跨平台的<a target="_blank" href="./../../go/1694/index.html" rel="nofollow noreferrer noopener">计算机程序设计语言</a>。 是一个高层次的结合了解释性、编译性、互动性和面向对象的<a target="_blank" href="./../../go/1139/index.html" rel="nofollow noreferrer noopener">脚本语言</a>。最初被设计用于编写自动化脚本(shell)，随着版本的不断更新和语言新功能的添加，越多被用于独立的、大型项目的开发。中文名蟒蛇外文名Python别&nbsp;&nbsp;&nbsp;&nbsp;名胶水语言经典教材Head First Python; Automate the Boring Stuff with Python发行时间1991年作&nbsp;&nbsp;&nbsp;&nbsp;者Guido van Rossum最新版本稳定：3x:3.8.3 2x:2.7.18；测试：3.9.0a6 2.x:2.7.18rc1<sup>&nbsp;[1]</sup>荣&nbsp;&nbsp;&nbsp;&nbsp;誉2017年度编程语言最近更新时间2020年04月28日缩&nbsp;&nbsp;&nbsp;&nbsp;写py语言类型高级语言</p>
+
+
+
+<h2>目录</h2>
+
+
+
+<ol><li>1&nbsp;<a href="./../../go/0777/index.html" rel="nofollow">Python简介及应用领域</a></li><li>2&nbsp;<a href="./../../go/6056/index.html" rel="nofollow">下载Python</a></li><li>3&nbsp;<a href="./../../go/2578/index.html" rel="nofollow">发展历程</a></li><li>4&nbsp;<a href="./../../go/5572/index.html" rel="nofollow">风格</a></li><li>5&nbsp;<a href="./../../go/9359/index.html" rel="nofollow">与MATLAB的对比</a></li><li>6&nbsp;<a href="./../../go/9212/index.html" rel="nofollow">设计定位</a></li><li>7&nbsp;<a href="./../../go/1487/index.html" rel="nofollow">执行</a></li><li>8&nbsp;<a href="./../../go/8200/index.html" rel="nofollow">基本语法</a></li></ol>
+
+
+
+<ol><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/9039/index.html" rel="nofollow">控制语句</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/3999/index.html" rel="nofollow">表达式</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/0350/index.html" rel="nofollow">函数</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/2067/index.html" rel="nofollow">对象的方法</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/2836/index.html" rel="nofollow">类型</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/4850/index.html" rel="nofollow">数学运算</a></li><li>9&nbsp;<a href="./../../go/0422/index.html" rel="nofollow">帮助</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/4977/index.html" rel="nofollow">1. 列出模块中的函数</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/1428/index.html" rel="nofollow">2.查看完整的python内置函数清单</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/1359/index.html" rel="nofollow">3. 查看某个函数的文档帮助信息</a></li></ol>
+
+
+
+<ol><li>10&nbsp;<a href="./../../go/2033/index.html" rel="nofollow">CGI</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/9433/index.html" rel="nofollow">服务器</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/8721/index.html" rel="nofollow">程序</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/0377/index.html" rel="nofollow">环境变量</a></li><li>11&nbsp;<a href="./../../go/3826/index.html" rel="nofollow">特点</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/4818/index.html" rel="nofollow">优点</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/3198/index.html" rel="nofollow">缺点</a></li><li>12&nbsp;<a href="./../../go/1505/index.html" rel="nofollow">应用</a></li><li>13&nbsp;<a href="./../../go/5470/index.html" rel="nofollow">工具功能</a></li><li>14&nbsp;<a href="./../../go/5155/index.html" rel="nofollow">标准库</a></li></ol>
+
+
+
+<ol><li>15&nbsp;<a href="./../../go/0016/index.html" rel="nofollow">开发环境</a></li><li>16&nbsp;<a href="./../../go/7182/index.html" rel="nofollow">解释器</a></li><li>17&nbsp;<a href="./../../go/0182/index.html" rel="nofollow">著名应用</a></li><li>18&nbsp;<a href="./../../go/2223/index.html" rel="nofollow">库导入</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/5713/index.html" rel="nofollow">内置库</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../go/9343/index.html" rel="nofollow">外部库</a></li><li>19&nbsp;<a href="./../../go/1391/index.html" rel="nofollow">学习网站</a></li></ol>
+<p><a rel="nofollow" href="./../../programminglanguage/python/python.html">Python（计算机程序设计语言）</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/python/python.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>利用JS实现QQ空间自动点赞</title>
+		<link>./../../programminglanguage/java/jslike.html</link>
+					<comments>./../../programminglanguage/java/jslike.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2020 00:36:20 +0000</pubDate>
+				<category><![CDATA[java]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=713</guid>
+
+					<description><![CDATA[<p>每逢节假日，总有朋友同学发说说，求关注，自己又没时间去点赞。现在让我们来在QQ空间控制台加上一段代码，一段Ja...<a class="read-more-link button" href="./../../programminglanguage/java/jslike.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/java/jslike.html">利用JS实现QQ空间自动点赞</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>每逢节假日，总有朋友同学发说说，求关注，自己又没时间去点赞。现在让我们来在QQ空间控制台加上一段代码，一段Javascript代码，让电脑自动为我们点赞。</p>
+<p>使用方法：</p>
+<p>1：进入QQ空间</p>
+<p>2：复制下面代码</p>
+<p>3：按F12或右键审查元素 进入控制台 也就是console</p>
+<p>4：粘贴&nbsp; 回车键&nbsp; 喝口水</p>
+<p>5：如果嫌慢的话可以 修改这段代码。</p>
+<p>window.setInterval(autoClick,2000);&nbsp; //2000代表两秒屏幕下滑5px；</p>
+<p><strong>完整代码：</strong></p>
+<pre class="layui-code">var&nbsp;x=5,y=10;
+function&nbsp;autoClick()
+{
+y=y+5;
+var&nbsp;zan=document.getElementsByClassName('item&nbsp;qz_like_btn_v3');
+for(var&nbsp;i=0;i&lt;zan.length;i++){
+if(zan[i].attributes[6].value=='like'){
+zan[i].firstChild.click();
+}
+};
+window.scrollBy(x,y);
+}
+window.setInterval(autoClick,2000);</pre>
+<p><a rel="nofollow" href="./../../programminglanguage/java/jslike.html">利用JS实现QQ空间自动点赞</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/java/jslike.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>什么是HTML？</title>
+		<link>./../../programminglanguage/html/html.html</link>
+					<comments>./../../programminglanguage/html/html.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 20 May 2020 08:10:33 +0000</pubDate>
+				<category><![CDATA[html]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=658</guid>
+
+					<description><![CDATA[<p>HTML称为超文本标记语言，是一种标识性的语言。它包括一系列标签．通过这些标签可以将网络上的文档格式统一，使分...<a class="read-more-link button" href="./../../programminglanguage/html/html.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/html/html.html">什么是HTML？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="lemma-summary">
+<div class="para">HTML称为<a href="./../../go/9965/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2832422">超文本</a>标记语言，是一种标识性的语言。它包括一系列标签．通过这些标签可以将网络上的文档格式统一，使分散的<a href="./../../go/4996/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="272794">Internet</a>资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明<a href="./../../go/4965/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="612910">文字</a>，<a href="./../../go/5351/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="773307">图形</a>、<a href="./../../go/7510/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="206564">动画</a>、<a href="./../../go/5139/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="33686">声音</a>、<a href="./../../go/5992/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="3371820">表格</a>、<a href="./../../go/3261/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2665501">链接</a>等。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_692"></a></div>
+<div class="para">超文本是一种组织信息的方式，它通过超级链接方法将文本中的文字、图表与其他信息媒体相关联。这些相互关联的信息媒体可能在同一文本中，也可能是其他文件，或是地理位置相距遥远的某台计算机上的文件。这种组织信息方式将分布在不同位置的信息资源用随机方式进行连接，为人们查找，检索信息提供方便。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_692"></a></div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn"></div>
+<div class="configModuleBanner"></div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">超级文本标记语言</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">Hyper Text Markup Language</dd>
+<dt class="basicInfo-item name">类    型</dt>
+<dd class="basicInfo-item value"><a href="./../../go/3221/index.html" target="_blank" rel="nofollow noopener noreferrer">标记语言</a></dd>
+</dl>
+<dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">阅读方式</dt>
+<dd class="basicInfo-item value"><a href="./../../go/7538/index.html" target="_blank" rel="nofollow noopener noreferrer">网页浏览器</a></dd>
+<dt class="basicInfo-item name">中文<a href="./../../go/4133/index.html" target="_blank" rel="nofollow noopener noreferrer">缩写</a></dt>
+<dd class="basicInfo-item value"><a href="./../../go/9965/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2832422">超文本</a>标记语言</dd>
+<dt class="basicInfo-item name"><a href="./../../go/0335/index.html" target="_blank" rel="nofollow noopener noreferrer">外语</a><a href="./../../go/4133/index.html" target="_blank" rel="nofollow noopener noreferrer">缩写</a></dt>
+<dd class="basicInfo-item value">HTML或HTM（都作<a href="./../../go/4351/index.html" target="_blank" rel="nofollow noopener noreferrer">文件扩展名</a>）</dd>
+</dl>
+</div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../go/8856/index.html" rel="nofollow">简介</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/4734/index.html" rel="nofollow">由来</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/8568/index.html" rel="nofollow">定义</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../go/5621/index.html" rel="nofollow">HTML版本</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../go/4245/index.html" rel="nofollow">特点</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../go/4307/index.html" rel="nofollow">编辑方式</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/9045/index.html" rel="nofollow">编辑</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/4773/index.html" rel="nofollow">字符集</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/0618/index.html" rel="nofollow">数据类型</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/4726/index.html" rel="nofollow">常见实体</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../go/7106/index.html" rel="nofollow">整体结构</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/0979/index.html" rel="nofollow">头部内容</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/7558/index.html" rel="nofollow">主体内容</a></span></li>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../go/6783/index.html" rel="nofollow">相关要求</a></span></li>
+</ol>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="./../../programminglanguage/html/html.html">什么是HTML？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/html/html.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>什么是PHP？</title>
+		<link>./../../programminglanguage/php/php.html</link>
+					<comments>./../../programminglanguage/php/php.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 08:07:53 +0000</pubDate>
+				<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=655</guid>
+
+					<description><![CDATA[<p>PHP即“超文本预处理器”，是一种通用开源脚本语言。PHP是在服务器端执行的脚本语言，与C语言类似，是常用的网...<a class="read-more-link button" href="./../../programminglanguage/php/php.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/php/php.html">什么是PHP？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="lemma-summary">
+<div class="para">PHP即“<a href="./../../go/1943/index.html" target="_blank" rel="nofollow noopener noreferrer">超文本</a><a href="./../../go/8528/index.html" target="_blank" rel="nofollow noopener noreferrer">预处理器</a>”，是一种通用<a href="./../../go/0038/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="246339">开源</a><a href="./../../go/1139/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1379708">脚本语言</a>。PHP是在服务器端执行的脚本语言，与<a href="./../../go/6961/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="105958">C语言</a>类似，是常用的网站编程语言。PHP独特的语法混合了C、<a href="./../../go/7240/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="85979">Java</a>、<a href="./../../go/1199/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="851577">Perl</a>以及 PHP 自创的语法。利于学习，使用广泛，主要适用于<a href="./../../go/3429/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="150564">Web</a>开发领域。</div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn"></div>
+<div class="configModuleBanner"></div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">超文本预处理器</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">PHP: Hypertext Preprocessor</dd>
+</dl>
+<dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">编程范型</dt>
+<dd class="basicInfo-item value">面向对象、命令式编程</dd>
+<dt class="basicInfo-item name">设计者</dt>
+<dd class="basicInfo-item value">Rasmus Lerdorf</dd>
+</dl>
+</div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../go/2608/index.html" rel="nofollow">简介</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../go/1207/index.html" rel="nofollow">主要特点</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../go/1583/index.html" rel="nofollow">优点</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../go/7337/index.html" rel="nofollow">缺点</a></span></li>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../go/4916/index.html" rel="nofollow">主要参考框架</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../go/5332/index.html" rel="nofollow">PHP加密</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/2226/index.html" rel="nofollow">加密的目的</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/8379/index.html" rel="nofollow">PHP加密函数</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/2895/index.html" rel="nofollow">PHP加密</a></span></li>
+<li class="level1"><span class="index">7</span> <span class="text"><a href="./../../go/4208/index.html" rel="nofollow">MySQL数据库访问</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">8</span> <span class="text"><a href="./../../go/2207/index.html" rel="nofollow">网站应用</a></span></li>
+<li class="level1"><span class="index">9</span> <span class="text"><a href="./../../go/0020/index.html" rel="nofollow">展望</a></span></li>
+<li class="level1"><span class="index">10</span> <span class="text"><a href="./../../go/8093/index.html" rel="nofollow">发行历史</a></span></li>
+</ol>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="./../../programminglanguage/php/php.html">什么是PHP？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/php/php.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>什么是Java？</title>
+		<link>./../../programminglanguage/java/java.html</link>
+					<comments>./../../programminglanguage/java/java.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 16 May 2020 08:05:20 +0000</pubDate>
+				<category><![CDATA[java]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=653</guid>
+
+					<description><![CDATA[<p>Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，...<a class="read-more-link button" href="./../../programminglanguage/java/java.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/java/java.html">什么是Java？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="lemma-summary">
+<div class="para">Java是一门<a href="./../../go/3968/index.html" target="_blank" rel="nofollow noopener noreferrer">面向对象</a>编程语言，不仅吸收了<a href="./../../go/6632/index.html" target="_blank" rel="nofollow noopener noreferrer">C++</a>语言的各种优点，还摒弃了C++里难以理解的<a href="./../../go/4705/index.html" target="_blank" rel="nofollow noopener noreferrer">多继承</a>、<a href="./../../go/2538/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2878304">指针</a>等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。</div>
+<div class="para">Java具有简单性、面向对象、<a href="./../../go/9000/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="19276232">分布式</a>、<a href="./../../go/8555/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="4430133">健壮性</a>、<a href="./../../go/3478/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="7664678">安全性</a>、平台独立与可移植性、<a href="./../../go/9261/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1190404">多线程</a>、动态性等特点。Java可以编写<a href="./../../go/9129/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2331979">桌面应用程序</a>、<a href="./../../go/9112/index.html" target="_blank" rel="nofollow noopener noreferrer">Web应用程序</a>、<a href="./../../go/1455/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="4905336">分布式系统</a>和<a href="./../../go/1414/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="186978">嵌入式系统</a>应用程序等 。</div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">Java</dd>
+</dl>
+<dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">现公司</dt>
+<dd class="basicInfo-item value">Oracle</dd>
+<dt class="basicInfo-item name">推出时间</dt>
+<dd class="basicInfo-item value">1995年5月</dd>
+<dd>
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-4">
+<ol>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../go/3508/index.html" rel="nofollow">发展历程</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../go/0857/index.html" rel="nofollow">编程开发</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/7061/index.html" rel="nofollow">编程环境</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/3048/index.html" rel="nofollow">编程工具</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../go/5988/index.html" rel="nofollow">语言特点</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../go/7853/index.html" rel="nofollow">工作原理</a></span></li>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../go/0275/index.html" rel="nofollow">语言基础</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/8012/index.html" rel="nofollow">基本数据结构</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/7814/index.html" rel="nofollow">关键字</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/4262/index.html" rel="nofollow">运算符</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/9032/index.html" rel="nofollow">程序举例</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../go/2278/index.html" rel="nofollow">语言标准</a></span></li>
+<li class="level1"><span class="index">7</span> <span class="text"><a href="./../../go/6619/index.html" rel="nofollow">语言规范</a></span></li>
+<li class="level1"><span class="index">8</span> <span class="text"><a href="./../../go/1099/index.html" rel="nofollow">技术应用</a></span></li>
+<li class="level1"><span class="index">9</span> <span class="text"><a href="./../../go/2911/index.html" rel="nofollow">学习指南</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/5663/index.html" rel="nofollow">考试</a></span></li>
+</ol>
+<ol>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/7204/index.html" rel="nofollow">教材</a></span></li>
+<li class="level1"><span class="index">10</span> <span class="text"><a href="./../../go/8752/index.html" rel="nofollow">语言评价</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/7520/index.html" rel="nofollow">发展前景</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/8702/index.html" rel="nofollow">贡献及影响力</a></span></li>
+</ol>
+</div>
+</dd>
+</dl>
+</div>
+
+
+<p></p>
+<p><a rel="nofollow" href="./../../programminglanguage/java/java.html">什么是Java？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/java/java.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>什么是c语言？</title>
+		<link>./../../programminglanguage/clanguage/c.html</link>
+					<comments>./../../programminglanguage/clanguage/c.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 07:59:46 +0000</pubDate>
+				<category><![CDATA[c/c++]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=648</guid>
+
+					<description><![CDATA[<p>C语言是一门面向过程的、抽象化的通用程序设计语言，广泛应用于底层开发。C语言能以简易的方式编译、处理低级存储器...<a class="read-more-link button" href="./../../programminglanguage/clanguage/c.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../programminglanguage/clanguage/c.html">什么是c语言？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="lemma-summary">
+<div class="para">C语言是一门面向过程的、抽象化的通用程序设计语言，广泛应用于底层开发。C语言能以简易的方式<a href="./../../go/9963/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1258343">编译</a>、处理低级<a href="./../../go/7370/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1583185">存储器</a>。C语言是仅产生少量的<a href="./../../go/2702/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2019225">机器语言</a>以及不需要任何运行环境支持便能运行的高效率程序设计语言。尽管C语言提供了许多低级处理的<a href="./../../go/8041/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="10346898">功能</a>，但仍然保持着跨平台的特性，以一个标准规格写出的C语言程序可在包括类似<a href="./../../go/7199/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="9242667">嵌入式处理器</a>以及超级计算机等作业平台的许多<a href="./../../go/8843/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2606037">计算机平台</a>上进行编译。</div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn"></div>
+<div class="configModuleBanner"></div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">C语言</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">C Programming Language</dd>
+<dt class="basicInfo-item name">类    别</dt>
+<dd class="basicInfo-item value">程序设计语言</dd>
+<dt class="basicInfo-item name">创始人</dt>
+<dd class="basicInfo-item value">Dennis MacAlistair Ritchie</dd>
+</dl>
+<dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">创始时间</dt>
+<dd class="basicInfo-item value">1972年</dd>
+<dt class="basicInfo-item name">发    源</dt>
+<dd class="basicInfo-item value">BCPL语言</dd>
+<dt class="basicInfo-item name">主要编译器</dt>
+<dd class="basicInfo-item value">Visual C++、Clang、GCC、Turbo C等</dd>
+<dt class="basicInfo-item name">影响语言</dt>
+<dd class="basicInfo-item value"><a href="./../../go/6632/index.html" target="_blank" rel="nofollow noopener noreferrer">C++</a>、<a href="./../../go/3140/index.html" target="_blank" rel="nofollow noopener noreferrer">C#</a>、<a href="./../../go/8331/index.html" target="_blank" rel="nofollow noopener noreferrer">D</a>、<a href="./../../go/6152/index.html" target="_blank" rel="nofollow noopener noreferrer">Java</a>、<a href="./../../go/0712/index.html" target="_blank" rel="nofollow noopener noreferrer">JavaScript</a>、<a href="./../../go/9627/index.html" target="_blank" rel="nofollow noopener noreferrer">Object</a><a href="./../../go/6220/index.html" target="_blank" rel="nofollow noopener noreferrer">PHP</a>等</dd>
+</dl>
+</div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../go/0161/index.html" rel="nofollow">简介</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../go/0250/index.html" rel="nofollow">发展历史</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../go/3940/index.html" rel="nofollow">语言特点</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/9373/index.html" rel="nofollow">主要特点</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/3098/index.html" rel="nofollow">特有特点</a></span></li>
+</ol>
+<ol>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/8794/index.html" rel="nofollow">缺点</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../go/1335/index.html" rel="nofollow">语言组成</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/6676/index.html" rel="nofollow">基本构成</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/1033/index.html" rel="nofollow">关键字</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/8102/index.html" rel="nofollow">语法结构</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/0620/index.html" rel="nofollow">函数</a></span></li>
+</ol>
+<ol>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/9060/index.html" rel="nofollow">运算符号</a></span></li>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../go/6733/index.html" rel="nofollow">编程开发</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/5763/index.html" rel="nofollow">编译器</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../go/1874/index.html" rel="nofollow">集成开发环境</a></span></li>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../go/0429/index.html" rel="nofollow">示例程序</a></span></li>
+</ol>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="./../../programminglanguage/clanguage/c.html">什么是c语言？</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../programminglanguage/clanguage/c.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
