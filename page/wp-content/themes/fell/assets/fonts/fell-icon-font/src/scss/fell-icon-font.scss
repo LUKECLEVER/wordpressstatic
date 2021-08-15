@@ -1,0 +1,154 @@
+/**
+ * Fell Icon Font
+ * MIT License
+ */
+
+$font-name: fell-icon-font;
+$font-prefix: 'fif';
+
+@font-face {
+  font-family: $font-name;
+  src: url('#{$font-name}.eot');
+  src: url('#{$font-name}.eot#iefix') format('embedded-opentype'),
+       url('#{$font-name}.woff') format('woff'),
+       url('#{$font-name}.ttf') format('truetype'),
+       url('#{$font-name}.svg##{$font-name}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.#{$font-prefix} {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-family: $font-name;
+}
+
+.#{$font-prefix}-rotate-90 { 
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=90deg)";
+  transform: rotate(90deg);
+}
+
+.#{$font-prefix}-rotate-180 { 
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=180deg)";
+  transform: rotate(180deg);
+}
+
+.#{$font-prefix}-rotate-270 { 
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=270deg)";
+  transform: rotate(270deg);
+}
+
+/* Utility icons */
+.#{$font-prefix}-chevron:before { content: '\EA0A'; }
+
+.#{$font-prefix}-pin:before { content: '\EA0B'; }
+
+.#{$font-prefix}-tag:before { content: '\EA0C'; }
+
+.#{$font-prefix}-folder:before { content: '\EA0D'; }
+
+.#{$font-prefix}-image:before { content: '\EA0E'; }
+
+/* Social icons */
+.#{$font-prefix}-twitter:before { content: '\EB0A'; }
+a:hover .#{$font-prefix}-twitter { color: rgb(29, 161, 243); }
+
+.#{$font-prefix}-facebook:before { content: '\EB0B'; }
+a:hover .#{$font-prefix}-facebook { color: rgb(59,89,152); }
+
+.#{$font-prefix}-tumblr:before { content: '\EB0C'; }
+a:hover .#{$font-prefix}-tumblr { color: rgb(56, 71, 93); }
+
+.#{$font-prefix}-youtube:before { content: '\EB0D'; }
+a:hover .#{$font-prefix}-youtube { color: rgb(255, 0, 0); }
+
+.#{$font-prefix}-twitch:before { content: '\EB0E'; }
+a:hover .#{$font-prefix}-twitch { color: rgb(100, 65, 164); }
+
+.#{$font-prefix}-discord:before { content: '\EB0F'; }
+a:hover .#{$font-prefix}-discord { color: rgb(114, 137, 218); }
+
+.#{$font-prefix}-soundcloud:before { content: '\EB01'; }
+a:hover .#{$font-prefix}-soundcloud { color: rgb(255, 85, 0); }
+
+.#{$font-prefix}-mixcloud:before { content: '\EB02'; }
+a:hover .#{$font-prefix}-mixcloud { color: rgb(82, 170, 216); }
+
+.#{$font-prefix}-dubtrack:before { content: '\EB03'; }
+a:hover .#{$font-prefix}-dubtrack { color: rgb(237, 0, 140); }
+
+.#{$font-prefix}-plug-dj:before { content: '\EB04'; }
+a:hover .#{$font-prefix}-plug-dj { color: rgb(75, 194, 251); }
+
+.#{$font-prefix}-behance:before { content: '\EB05'; }
+a:hover .#{$font-prefix}-behance { color: rgb(23,105,255); }
+
+.#{$font-prefix}-codepen:before { content: '\EB06'; }
+
+.#{$font-prefix}-deviant-art:before { content: '\EB07'; }
+a:hover .#{$font-prefix}-deviant-art { color: rgb(5, 204, 71); }
+
+.#{$font-prefix}-digg:before { content: '\EB08'; }
+a:hover .#{$font-prefix}-digg { color: rgb(27, 87, 145); }
+
+.#{$font-prefix}-dribbble:before { content: '\EB09'; }
+a:hover .#{$font-prefix}-dribbble { color: rgb(224, 77, 132); }
+
+.#{$font-prefix}-dropbox:before { content: '\EB1A'; }
+a:hover .#{$font-prefix}-dropbox { color: rgb(0, 126, 229); }
+
+.#{$font-prefix}-flickr:before { content: '\EB1B'; }
+a:hover .#{$font-prefix}-flickr { color: rgb(0, 98, 221); }
+
+.#{$font-prefix}-foursquare:before { content: '\EB1C'; }
+a:hover .#{$font-prefix}-foursquare { color: rgb(250, 71, 120); }
+
+.#{$font-prefix}-github:before { content: '\EB1D'; }
+
+.#{$font-prefix}-google-plus:before { content: '\EB1E'; }
+a:hover .#{$font-prefix}-google-plus { color: rgb(220, 74, 56); }
+
+.#{$font-prefix}-instagram:before { content: '\EB1F'; }
+
+.#{$font-prefix}-linkedin:before { content: '\EB11'; }
+a:hover .#{$font-prefix}-linkedin { color: rgb(0, 119, 181); }
+
+.#{$font-prefix}-medium:before { content: '\EB12'; }
+
+.#{$font-prefix}-pinterest:before { content: '\EB13'; }
+a:hover .#{$font-prefix}-pinterest { color: rgb(189, 8, 27); }
+
+.#{$font-prefix}-reddit:before { content: '\EB14'; }
+a:hover .#{$font-prefix}-reddit { color: rgb(255, 69, 0); }
+
+.#{$font-prefix}-skype:before { content: '\EB15'; }
+a:hover .#{$font-prefix}-skype { color: rgb(30, 183, 236); }
+
+.#{$font-prefix}-slideshare:before { content: '\EB16'; }
+a:hover .#{$font-prefix}-slideshare { color: rgb(247, 148, 29); }
+
+.#{$font-prefix}-snapchat:before { content: '\EB17'; }
+a:hover .#{$font-prefix}-snapchat { color: rgb(255, 252, 0); }
+
+.#{$font-prefix}-spotify:before { content: '\EB18'; }
+a:hover .#{$font-prefix}-spotify { color: rgb(30, 215, 96); }
+
+.#{$font-prefix}-stumbleupon:before { content: '\EB19'; }
+a:hover .#{$font-prefix}-stumbleupon { color: rgb(235, 72, 35); }
+
+.#{$font-prefix}-vimeo:before { content: '\EB2A'; }
+a:hover .#{$font-prefix}-vimeo { color: rgb(70, 183, 235); }
+
+.#{$font-prefix}-vine:before { content: '\EB2B'; }
+a:hover .#{$font-prefix}-vine { color: rgb(0, 191, 142); }
+
+.#{$font-prefix}-vk:before { content: '\EB2C'; }
+a:hover .#{$font-prefix}-vk { color: rgb(81, 129, 184); }
+
+.#{$font-prefix}-wordpress:before { content: '\EB2D'; }
+a:hover .#{$font-prefix}-wordpress { color: rgb(33, 117, 155); }

@@ -1,0 +1,317 @@
+@font-face {
+  font-family: fell-icon-font;
+  src: url("fell-icon-font.eot");
+  src: url("fell-icon-font.eot#iefix") format("embedded-opentype"), url("fell-icon-font.woff") format("woff"), url("fell-icon-font.ttf") format("truetype"), url("fell-icon-font.svg#fell-icon-font") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fif {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-family: fell-icon-font;
+}
+
+.fif-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=90deg)";
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fif-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=180deg)";
+  -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fif-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=270deg)";
+  -webkit-transform: rotate(270deg);
+      -ms-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+/* Utility icons */
+.fif-chevron:before {
+  content: '\EA0A';
+}
+
+.fif-pin:before {
+  content: '\EA0B';
+}
+
+.fif-tag:before {
+  content: '\EA0C';
+}
+
+.fif-folder:before {
+  content: '\EA0D';
+}
+
+.fif-image:before {
+  content: '\EA0E';
+}
+
+/* Social icons */
+.fif-twitter:before {
+  content: '\EB0A';
+}
+
+a:hover .fif-twitter {
+  color: #1da1f3;
+}
+
+.fif-facebook:before {
+  content: '\EB0B';
+}
+
+a:hover .fif-facebook {
+  color: #3b5998;
+}
+
+.fif-tumblr:before {
+  content: '\EB0C';
+}
+
+a:hover .fif-tumblr {
+  color: #38475d;
+}
+
+.fif-youtube:before {
+  content: '\EB0D';
+}
+
+a:hover .fif-youtube {
+  color: red;
+}
+
+.fif-twitch:before {
+  content: '\EB0E';
+}
+
+a:hover .fif-twitch {
+  color: #6441a4;
+}
+
+.fif-discord:before {
+  content: '\EB0F';
+}
+
+a:hover .fif-discord {
+  color: #7289da;
+}
+
+.fif-soundcloud:before {
+  content: '\EB01';
+}
+
+a:hover .fif-soundcloud {
+  color: #ff5500;
+}
+
+.fif-mixcloud:before {
+  content: '\EB02';
+}
+
+a:hover .fif-mixcloud {
+  color: #52aad8;
+}
+
+.fif-dubtrack:before {
+  content: '\EB03';
+}
+
+a:hover .fif-dubtrack {
+  color: #ed008c;
+}
+
+.fif-plug-dj:before {
+  content: '\EB04';
+}
+
+a:hover .fif-plug-dj {
+  color: #4bc2fb;
+}
+
+.fif-behance:before {
+  content: '\EB05';
+}
+
+a:hover .fif-behance {
+  color: #1769ff;
+}
+
+.fif-codepen:before {
+  content: '\EB06';
+}
+
+.fif-deviant-art:before {
+  content: '\EB07';
+}
+
+a:hover .fif-deviant-art {
+  color: #05cc47;
+}
+
+.fif-digg:before {
+  content: '\EB08';
+}
+
+a:hover .fif-digg {
+  color: #1b5791;
+}
+
+.fif-dribbble:before {
+  content: '\EB09';
+}
+
+a:hover .fif-dribbble {
+  color: #e04d84;
+}
+
+.fif-dropbox:before {
+  content: '\EB1A';
+}
+
+a:hover .fif-dropbox {
+  color: #007ee5;
+}
+
+.fif-flickr:before {
+  content: '\EB1B';
+}
+
+a:hover .fif-flickr {
+  color: #0062dd;
+}
+
+.fif-foursquare:before {
+  content: '\EB1C';
+}
+
+a:hover .fif-foursquare {
+  color: #fa4778;
+}
+
+.fif-github:before {
+  content: '\EB1D';
+}
+
+.fif-google-plus:before {
+  content: '\EB1E';
+}
+
+a:hover .fif-google-plus {
+  color: #dc4a38;
+}
+
+.fif-instagram:before {
+  content: '\EB1F';
+}
+
+.fif-linkedin:before {
+  content: '\EB11';
+}
+
+a:hover .fif-linkedin {
+  color: #0077b5;
+}
+
+.fif-medium:before {
+  content: '\EB12';
+}
+
+.fif-pinterest:before {
+  content: '\EB13';
+}
+
+a:hover .fif-pinterest {
+  color: #bd081b;
+}
+
+.fif-reddit:before {
+  content: '\EB14';
+}
+
+a:hover .fif-reddit {
+  color: orangered;
+}
+
+.fif-skype:before {
+  content: '\EB15';
+}
+
+a:hover .fif-skype {
+  color: #1eb7ec;
+}
+
+.fif-slideshare:before {
+  content: '\EB16';
+}
+
+a:hover .fif-slideshare {
+  color: #f7941d;
+}
+
+.fif-snapchat:before {
+  content: '\EB17';
+}
+
+a:hover .fif-snapchat {
+  color: #fffc00;
+}
+
+.fif-spotify:before {
+  content: '\EB18';
+}
+
+a:hover .fif-spotify {
+  color: #1ed760;
+}
+
+.fif-stumbleupon:before {
+  content: '\EB19';
+}
+
+a:hover .fif-stumbleupon {
+  color: #eb4823;
+}
+
+.fif-vimeo:before {
+  content: '\EB2A';
+}
+
+a:hover .fif-vimeo {
+  color: #46b7eb;
+}
+
+.fif-vine:before {
+  content: '\EB2B';
+}
+
+a:hover .fif-vine {
+  color: #00bf8e;
+}
+
+.fif-vk:before {
+  content: '\EB2C';
+}
+
+a:hover .fif-vk {
+  color: #5181b8;
+}
+
+.fif-wordpress:before {
+  content: '\EB2D';
+}
+
+a:hover .fif-wordpress {
+  color: #21759b;
+}
