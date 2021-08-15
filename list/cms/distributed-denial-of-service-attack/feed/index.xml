@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>网站攻击：dos/ddos(Distributed denial of service attack) &#8211; 陆尧顶瓜瓜</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
+	<lastBuildDate>Sat, 01 May 2021 15:02:57 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<title>网站攻击：dos/ddos(Distributed denial of service attack) &#8211; 陆尧顶瓜瓜</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>什么是ddos（分布式拒绝服务攻击）？</title>
+		<link>./../../../cms/distributed-denial-of-service-attack/ddos.html</link>
+					<comments>./../../../cms/distributed-denial-of-service-attack/ddos.html#respond</comments>
+		
+		<dc:creator><![CDATA[陆尧瓜瓜]]></dc:creator>
+		<pubDate>Sun, 24 May 2020 13:11:54 +0000</pubDate>
+				<category><![CDATA[网站攻击：dos/ddos(Distributed denial of service attack)]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=664</guid>
+
+					<description><![CDATA[<p>分布式拒绝服务攻击可以使很多的计算机在同一时间遭受到攻击，使攻击的目标无法正常使用，分布式拒绝服务攻击已经出现...<a class="read-more-link button" href="./../../../cms/distributed-denial-of-service-attack/ddos.html">Read more</a></p>
+<p><a rel="nofollow" href="./../../../cms/distributed-denial-of-service-attack/ddos.html">什么是ddos（分布式拒绝服务攻击）？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="lemma-summary">
+<div class="para">分布式拒绝服务攻击可以使很多的计算机在同一时间遭受到攻击，使攻击的目标无法正常使用，分布式拒绝服务攻击已经出现了很多次，导致很多的大型网站都出现了无法进行操作的情况，这样不仅仅会影响用户的正常使用，同时造成的经济损失也是非常巨大的。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_210076"></a></div>
+<div class="para">分布式拒绝服务攻击方式在进行攻击的时候，可以对源IP地址进行伪造，这样就使得这种攻击在发生的时候隐蔽性是非常好的，同时要对攻击进行检测也是非常困难的，因此这种攻击方式也成为了非常难以防范的攻击。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_210076"></a></div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn"></div>
+<div class="configModuleBanner"></div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">分布式拒绝服务攻击</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">Distributed denial of service attack</dd>
+<dt class="basicInfo-item name">目    标</dt>
+<dd class="basicInfo-item value">DoS攻击</dd>
+</dl>
+<dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">借    助</dt>
+<dd class="basicInfo-item value">服务器技术</dd>
+<dt class="basicInfo-item name">基    于</dt>
+<dd class="basicInfo-item value">DoS攻击</dd>
+<dt class="basicInfo-item name">攻击者</dt>
+<dd class="basicInfo-item value">多个，分布在不同位置</dd>
+</dl>
+</div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../../go/5025/index.html" rel="nofollow">定义</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../../go/3187/index.html" rel="nofollow">攻击原理</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../../go/3804/index.html" rel="nofollow">分类</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../../go/9348/index.html" rel="nofollow">攻击现象</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../../go/3323/index.html" rel="nofollow">攻击流程</a></span></li>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../../go/2140/index.html" rel="nofollow">攻击方式</a></span></li>
+<li class="level1"><span class="index">7</span> <span class="text"><a href="./../../../go/7767/index.html" rel="nofollow">应对策略</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/6289/index.html" rel="nofollow">防御措施</a></span></li>
+</ol>
+<ol>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/7876/index.html" rel="nofollow">防御原则</a></span></li>
+<li class="level1"><span class="index">8</span> <span class="text"><a href="./../../../go/9917/index.html" rel="nofollow">打击行动</a></span></li>
+</ol>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="./../../../cms/distributed-denial-of-service-attack/ddos.html">什么是ddos（分布式拒绝服务攻击）？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../cms/distributed-denial-of-service-attack/ddos.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
