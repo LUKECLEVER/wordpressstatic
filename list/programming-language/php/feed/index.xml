@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>php &#8211; 陆尧顶瓜瓜</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
+	<lastBuildDate>Mon, 16 Aug 2021 11:24:31 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<title>php &#8211; 陆尧顶瓜瓜</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>十进制转二进制</title>
+		<link>./../../../programming-language/c-language/decimal-to-binary.html</link>
+					<comments>./../../../programming-language/c-language/decimal-to-binary.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 01:24:53 +0000</pubDate>
+				<category><![CDATA[c/c++]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=921</guid>
+
+					<description><![CDATA[<p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
+<p><a rel="nofollow" href="./../../../programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
+
+
+
+<p>中文名 十进制转二进制</p>
+
+
+
+<p>外文名 Decimal system to binary system</p>
+
+
+
+<p>适用领域 电子、编程、编码</p>
+
+
+
+<p>应用学科 数学</p>
+
+
+
+<h2>目录</h2>
+
+
+
+<ol><li>1&nbsp;<a href="./../../../go/2137/index.html" rel="nofollow">二进制转十进制</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../../go/7102/index.html" rel="nofollow">方法一</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../../go/4780/index.html" rel="nofollow">方法二</a></li><li>2&nbsp;<a href="./../../../go/9953/index.html" rel="nofollow">十进制转二进制</a></li></ol>
+
+
+
+<p></p>
+<p><a rel="nofollow" href="./../../../programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../programming-language/c-language/decimal-to-binary.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>什么是PHP？</title>
+		<link>./../../../programming-language/php/php.html</link>
+					<comments>./../../../programming-language/php/php.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 08:07:53 +0000</pubDate>
+				<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">https://luyaoguagua.top/?p=655</guid>
+
+					<description><![CDATA[<p>PHP即“超文本预处理器”，是一种通用开源脚本语言。PHP是在服务器端执行的脚本语言，与C语言类似，是常用的网站编程语言。</p>
+<p><a rel="nofollow" href="./../../../programming-language/php/php.html">什么是PHP？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="lemma-summary">
+<div class="para">PHP即“<a href="./../../../go/1943/index.html" target="_blank" rel="nofollow noopener noreferrer">超文本</a><a href="./../../../go/8528/index.html" target="_blank" rel="nofollow noopener noreferrer">预处理器</a>”，是一种通用<a href="./../../../go/0038/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="246339">开源</a><a href="./../../../go/1139/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1379708">脚本语言</a>。PHP是在服务器端执行的脚本语言，与<a href="./../../../go/6961/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="105958">C语言</a>类似，是常用的网站编程语言。PHP独特的语法混合了C、<a href="./../../../go/7240/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="85979">Java</a>、<a href="./../../../go/1199/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="851577">Perl</a>以及 PHP 自创的语法。利于学习，使用广泛，主要适用于<a href="./../../../go/3429/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="150564">Web</a>开发领域。</div>
+</div>
+<div class="lemmaWgt-promotion-leadPVBtn"></div>
+<div class="configModuleBanner"></div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">超文本预处理器</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">PHP: Hypertext Preprocessor</dd>
+</dl>
+<dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">编程范型</dt>
+<dd class="basicInfo-item value">面向对象、命令式编程</dd>
+<dt class="basicInfo-item name">设计者</dt>
+<dd class="basicInfo-item value">Rasmus Lerdorf</dd>
+</dl>
+</div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../../go/2608/index.html" rel="nofollow">简介</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../../go/1207/index.html" rel="nofollow">主要特点</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../../go/1583/index.html" rel="nofollow">优点</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../../go/7337/index.html" rel="nofollow">缺点</a></span></li>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../../go/4916/index.html" rel="nofollow">主要参考框架</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../../go/5332/index.html" rel="nofollow">PHP加密</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/2226/index.html" rel="nofollow">加密的目的</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/8379/index.html" rel="nofollow">PHP加密函数</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/2895/index.html" rel="nofollow">PHP加密</a></span></li>
+<li class="level1"><span class="index">7</span> <span class="text"><a href="./../../../go/4208/index.html" rel="nofollow">MySQL数据库访问</a></span></li>
+</ol>
+<ol>
+<li class="level1"><span class="index">8</span> <span class="text"><a href="./../../../go/2207/index.html" rel="nofollow">网站应用</a></span></li>
+<li class="level1"><span class="index">9</span> <span class="text"><a href="./../../../go/0020/index.html" rel="nofollow">展望</a></span></li>
+<li class="level1"><span class="index">10</span> <span class="text"><a href="./../../../go/8093/index.html" rel="nofollow">发行历史</a></span></li>
+</ol>
+</div>
+</div>
+</div>
+<p><a rel="nofollow" href="./../../../programming-language/php/php.html">什么是PHP？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../programming-language/php/php.html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
