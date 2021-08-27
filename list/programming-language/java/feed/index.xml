@@ -9,10 +9,10 @@
 
 <channel>
 	<title>java &#8211; 陆尧顶瓜瓜</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://blog.luyaoguagua.top/list/programming-language/java/feed" rel="self" type="application/rss+xml" />
+	<link>https://blog.luyaoguagua.top/</link>
 	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
-	<lastBuildDate>Mon, 16 Aug 2021 11:25:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Aug 2021 14:04:16 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,16 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<url>https://blog.luyaoguagua.top/wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
 	<title>java &#8211; 陆尧顶瓜瓜</title>
-	<link>./../../../index.html</link>
+	<link>https://blog.luyaoguagua.top/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>浏览器网页刷新设定时间的控制台代码</title>
-		<link>./../../../programming-language/console-refresh.html</link>
-					<comments>./../../../programming-language/console-refresh.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/programming-language/console-refresh.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 10 Aug 2021 11:55:25 +0000</pubDate>
@@ -39,7 +38,7 @@
 		<guid isPermaLink="false">https://blog.luyaoguagua.top/?p=1051</guid>
 
 					<description><![CDATA[<p>浏览器网页刷新设定时间的控制台代码</p>
-<p><a rel="nofollow" href="./../../../programming-language/console-refresh.html">浏览器网页刷新设定时间的控制台代码</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/console-refresh.html">浏览器网页刷新设定时间的控制台代码</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <pre class="wp-block-code has-medium-font-size"><code>timeout=prompt("设置每秒刷新次数:");
@@ -57,18 +56,15 @@ fr4me='&lt;frameset cols=\'*\'&gt;\n&lt;frame src=\''+current+'\'/&gt;';
 fr4me+='&lt;/frameset&gt;';
 with(document){write(fr4me);void(close())};
 }</code></pre>
-<p><a rel="nofollow" href="./../../../programming-language/console-refresh.html">浏览器网页刷新设定时间的控制台代码</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/console-refresh.html">浏览器网页刷新设定时间的控制台代码</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../programming-language/console-refresh.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>十进制转二进制</title>
-		<link>./../../../programming-language/c-language/decimal-to-binary.html</link>
-					<comments>./../../../programming-language/c-language/decimal-to-binary.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/programming-language/c-language/decimal-to-binary.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2020 01:24:53 +0000</pubDate>
@@ -80,7 +76,7 @@ with(document){write(fr4me);void(close())};
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=921</guid>
 
 					<description><![CDATA[<p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
-<p><a rel="nofollow" href="./../../../programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
@@ -107,23 +103,20 @@ with(document){write(fr4me);void(close())};
 
 
 
-<ol><li>1&nbsp;<a href="./../../../go/2137/index.html" rel="nofollow">二进制转十进制</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../../go/7102/index.html" rel="nofollow">方法一</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../../go/4780/index.html" rel="nofollow">方法二</a></li><li>2&nbsp;<a href="./../../../go/9953/index.html" rel="nofollow">十进制转二进制</a></li></ol>
+<ol><li>1&nbsp;<a href="https://blog.luyaoguagua.top/go/2137" rel="nofollow">二进制转十进制</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="https://blog.luyaoguagua.top/go/7102" rel="nofollow">方法一</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="https://blog.luyaoguagua.top/go/4780" rel="nofollow">方法二</a></li><li>2&nbsp;<a href="https://blog.luyaoguagua.top/go/9953" rel="nofollow">十进制转二进制</a></li></ol>
 
 
 
 <p></p>
-<p><a rel="nofollow" href="./../../../programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../programming-language/c-language/decimal-to-binary.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>利用JS实现QQ空间自动点赞</title>
-		<link>./../../../programming-language/java/automatic-liking-of-qq-space.html</link>
-					<comments>./../../../programming-language/java/automatic-liking-of-qq-space.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/programming-language/java/automatic-liking-of-qq-space.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 09 Jul 2020 00:36:20 +0000</pubDate>
@@ -131,7 +124,7 @@ with(document){write(fr4me);void(close())};
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=713</guid>
 
 					<description><![CDATA[<p>每逢节假日，总有朋友同学发说说，求关注，自己又没时间去点赞。现在让我们来在QQ空间控制台加上一段代码，一段Javascript代码，让电脑自动为我们点赞。</p>
-<p><a rel="nofollow" href="./../../../programming-language/java/automatic-liking-of-qq-space.html">利用JS实现QQ空间自动点赞</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/java/automatic-liking-of-qq-space.html">利用JS实现QQ空间自动点赞</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>每逢节假日，总有朋友同学发说说，求关注，自己又没时间去点赞。现在让我们来在QQ空间控制台加上一段代码，一段Javascript代码，让电脑自动为我们点赞。</p>
 <p>使用方法：</p>
@@ -155,18 +148,15 @@ zan[i].firstChild.click();
 window.scrollBy(x,y);
 }
 window.setInterval(autoClick,2000);</pre>
-<p><a rel="nofollow" href="./../../../programming-language/java/automatic-liking-of-qq-space.html">利用JS实现QQ空间自动点赞</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/java/automatic-liking-of-qq-space.html">利用JS实现QQ空间自动点赞</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../programming-language/java/automatic-liking-of-qq-space.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>什么是Java？</title>
-		<link>./../../../programming-language/java/java.html</link>
-					<comments>./../../../programming-language/java/java.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/programming-language/java/java.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Sat, 16 May 2020 08:05:20 +0000</pubDate>
@@ -174,11 +164,11 @@ window.setInterval(autoClick,2000);</pre>
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=653</guid>
 
 					<description><![CDATA[<p>Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。</p>
-<p><a rel="nofollow" href="./../../../programming-language/java/java.html">什么是Java？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/java/java.html">什么是Java？</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="lemma-summary">
-<div class="para">Java是一门<a href="./../../../go/3968/index.html" target="_blank" rel="nofollow noopener noreferrer">面向对象</a>编程语言，不仅吸收了<a href="./../../../go/6632/index.html" target="_blank" rel="nofollow noopener noreferrer">C++</a>语言的各种优点，还摒弃了C++里难以理解的<a href="./../../../go/4705/index.html" target="_blank" rel="nofollow noopener noreferrer">多继承</a>、<a href="./../../../go/2538/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2878304">指针</a>等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。</div>
-<div class="para">Java具有简单性、面向对象、<a href="./../../../go/9000/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="19276232">分布式</a>、<a href="./../../../go/8555/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="4430133">健壮性</a>、<a href="./../../../go/3478/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="7664678">安全性</a>、平台独立与可移植性、<a href="./../../../go/9261/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1190404">多线程</a>、动态性等特点。Java可以编写<a href="./../../../go/9129/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2331979">桌面应用程序</a>、<a href="./../../../go/9112/index.html" target="_blank" rel="nofollow noopener noreferrer">Web应用程序</a>、<a href="./../../../go/1455/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="4905336">分布式系统</a>和<a href="./../../../go/1414/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="186978">嵌入式系统</a>应用程序等 。</div>
+<div class="para">Java是一门<a href="https://blog.luyaoguagua.top/go/3968" target="_blank" rel="nofollow noopener noreferrer">面向对象</a>编程语言，不仅吸收了<a href="https://blog.luyaoguagua.top/go/6632" target="_blank" rel="nofollow noopener noreferrer">C++</a>语言的各种优点，还摒弃了C++里难以理解的<a href="https://blog.luyaoguagua.top/go/4705" target="_blank" rel="nofollow noopener noreferrer">多继承</a>、<a href="https://blog.luyaoguagua.top/go/2538" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2878304">指针</a>等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。</div>
+<div class="para">Java具有简单性、面向对象、<a href="https://blog.luyaoguagua.top/go/9000" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="19276232">分布式</a>、<a href="https://blog.luyaoguagua.top/go/8555" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="4430133">健壮性</a>、<a href="https://blog.luyaoguagua.top/go/3478" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="7664678">安全性</a>、平台独立与可移植性、<a href="https://blog.luyaoguagua.top/go/9261" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="1190404">多线程</a>、动态性等特点。Java可以编写<a href="https://blog.luyaoguagua.top/go/9129" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2331979">桌面应用程序</a>、<a href="https://blog.luyaoguagua.top/go/9112" target="_blank" rel="nofollow noopener noreferrer">Web应用程序</a>、<a href="https://blog.luyaoguagua.top/go/1455" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="4905336">分布式系统</a>和<a href="https://blog.luyaoguagua.top/go/1414" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="186978">嵌入式系统</a>应用程序等 。</div>
 </div>
 <div class="lemmaWgt-promotion-leadPVBtn">
 <dl class="basicInfo-block basicInfo-left">
@@ -194,32 +184,32 @@ window.setInterval(autoClick,2000);</pre>
 <h2 class="block-title">目录</h2>
 <div class="catalog-list column-4">
 <ol>
-<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../../go/3508/index.html" rel="nofollow">发展历程</a></span></li>
-<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../../go/0857/index.html" rel="nofollow">编程开发</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/7061/index.html" rel="nofollow">编程环境</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/3048/index.html" rel="nofollow">编程工具</a></span></li>
-<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../../go/5988/index.html" rel="nofollow">语言特点</a></span></li>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/3508" rel="nofollow">发展历程</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/0857" rel="nofollow">编程开发</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7061" rel="nofollow">编程环境</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/3048" rel="nofollow">编程工具</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/5988" rel="nofollow">语言特点</a></span></li>
 </ol>
 <ol>
-<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../../go/7853/index.html" rel="nofollow">工作原理</a></span></li>
-<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../../go/0275/index.html" rel="nofollow">语言基础</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/8012/index.html" rel="nofollow">基本数据结构</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/7814/index.html" rel="nofollow">关键字</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/4262/index.html" rel="nofollow">运算符</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/9032/index.html" rel="nofollow">程序举例</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7853" rel="nofollow">工作原理</a></span></li>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/0275" rel="nofollow">语言基础</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/8012" rel="nofollow">基本数据结构</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7814" rel="nofollow">关键字</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/4262" rel="nofollow">运算符</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/9032" rel="nofollow">程序举例</a></span></li>
 </ol>
 <ol>
-<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../../go/2278/index.html" rel="nofollow">语言标准</a></span></li>
-<li class="level1"><span class="index">7</span> <span class="text"><a href="./../../../go/6619/index.html" rel="nofollow">语言规范</a></span></li>
-<li class="level1"><span class="index">8</span> <span class="text"><a href="./../../../go/1099/index.html" rel="nofollow">技术应用</a></span></li>
-<li class="level1"><span class="index">9</span> <span class="text"><a href="./../../../go/2911/index.html" rel="nofollow">学习指南</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/5663/index.html" rel="nofollow">考试</a></span></li>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/2278" rel="nofollow">语言标准</a></span></li>
+<li class="level1"><span class="index">7</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/6619" rel="nofollow">语言规范</a></span></li>
+<li class="level1"><span class="index">8</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/1099" rel="nofollow">技术应用</a></span></li>
+<li class="level1"><span class="index">9</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/2911" rel="nofollow">学习指南</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/5663" rel="nofollow">考试</a></span></li>
 </ol>
 <ol>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/7204/index.html" rel="nofollow">教材</a></span></li>
-<li class="level1"><span class="index">10</span> <span class="text"><a href="./../../../go/8752/index.html" rel="nofollow">语言评价</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/7520/index.html" rel="nofollow">发展前景</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/8702/index.html" rel="nofollow">贡献及影响力</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7204" rel="nofollow">教材</a></span></li>
+<li class="level1"><span class="index">10</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/8752" rel="nofollow">语言评价</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7520" rel="nofollow">发展前景</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/8702" rel="nofollow">贡献及影响力</a></span></li>
 </ol>
 </div>
 </dd>
@@ -228,11 +218,9 @@ window.setInterval(autoClick,2000);</pre>
 
 
 <p></p>
-<p><a rel="nofollow" href="./../../../programming-language/java/java.html">什么是Java？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/java/java.html">什么是Java？</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../programming-language/java/java.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

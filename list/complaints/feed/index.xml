@@ -9,10 +9,10 @@
 
 <channel>
 	<title>日常牢骚 &#8211; 陆尧顶瓜瓜</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://blog.luyaoguagua.top/list/complaints/feed" rel="self" type="application/rss+xml" />
+	<link>https://blog.luyaoguagua.top/</link>
 	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
-	<lastBuildDate>Mon, 16 Aug 2021 11:07:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Aug 2021 14:02:39 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,16 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<url>https://blog.luyaoguagua.top/wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
 	<title>日常牢骚 &#8211; 陆尧顶瓜瓜</title>
-	<link>./../../index.html</link>
+	<link>https://blog.luyaoguagua.top/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>干脆面伴汤</title>
-		<link>./../../complaints/crispy-noodles.html</link>
-					<comments>./../../complaints/crispy-noodles.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/complaints/crispy-noodles.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Sat, 31 Oct 2020 14:23:22 +0000</pubDate>
@@ -38,7 +37,7 @@
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=930</guid>
 
 					<description><![CDATA[<p>干脆面伴汤-真香</p>
-<p><a rel="nofollow" href="./../../complaints/crispy-noodles.html">干脆面伴汤</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/complaints/crispy-noodles.html">干脆面伴汤</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p class="has-text-align-center has-light-green-cyan-background-color has-background has-medium-font-size"><strong>我从高二才开始住宿，很多住宿生专属的事情以前都没有干过。</strong></p>
@@ -82,11 +81,9 @@
 
 
 <p class="has-text-align-center has-light-green-cyan-background-color has-background has-medium-font-size"><strong>我突然回想起在家的幸福生活。哪怕只是一碗泡面都不容易，真是“生在福中不知福”。在家很简单的泡面一事，在学校竟使我如此狼狈。家是什么？家，是难舍的亲情，是温馨的集体，是充满了爱的世界，是一个永远温馨而动人的话题&#8212;在这里，父母用慈爱的伞为儿女撑起一方晴空，儿女用孝顺的心给父母奉上一杯香茶；在这里，洋溢着浓浓的师生之情、伙伴之谊，甚至在神奇的动物世界中，也演绎着一幕幕感人至深的故事。</strong></p>
-<p><a rel="nofollow" href="./../../complaints/crispy-noodles.html">干脆面伴汤</a>最先出现在<a rel="nofollow" href="./../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/complaints/crispy-noodles.html">干脆面伴汤</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../complaints/crispy-noodles.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

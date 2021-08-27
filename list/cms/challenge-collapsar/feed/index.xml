@@ -9,10 +9,10 @@
 
 <channel>
 	<title>网站攻击：cc(Challenge Collapsar) &#8211; 陆尧顶瓜瓜</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://blog.luyaoguagua.top/list/cms/challenge-collapsar/feed" rel="self" type="application/rss+xml" />
+	<link>https://blog.luyaoguagua.top/</link>
 	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
-	<lastBuildDate>Mon, 16 Aug 2021 11:20:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Aug 2021 14:04:03 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,16 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<url>https://blog.luyaoguagua.top/wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
 	<title>网站攻击：cc(Challenge Collapsar) &#8211; 陆尧顶瓜瓜</title>
-	<link>./../../../index.html</link>
+	<link>https://blog.luyaoguagua.top/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>什么是cc攻击？</title>
-		<link>./../../../cms/challenge-collapsar/cc.html</link>
-					<comments>./../../../cms/challenge-collapsar/cc.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/cms/challenge-collapsar/cc.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Fri, 22 May 2020 13:09:59 +0000</pubDate>
@@ -38,10 +37,10 @@
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=662</guid>
 
 					<description><![CDATA[<p>攻击者借助代理服务器生成指向受害主机的合法请求，实现DDOS和伪装就叫：CC(Challenge Collapsar)。</p>
-<p><a rel="nofollow" href="./../../../cms/challenge-collapsar/cc.html">什么是cc攻击？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/cms/challenge-collapsar/cc.html">什么是cc攻击？</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="lemma-summary">
-<div class="para">攻击者借助<a href="./../../../go/1982/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="97996">代理服务器</a>生成指向受害主机的合法请求，实现<a href="./../../../go/1400/index.html" target="_blank" rel="nofollow noopener noreferrer">DDOS</a>和伪装就叫：CC(Challenge Collapsar)。</div>
+<div class="para">攻击者借助<a href="https://blog.luyaoguagua.top/go/1982" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="97996">代理服务器</a>生成指向受害主机的合法请求，实现<a href="https://blog.luyaoguagua.top/go/1400" target="_blank" rel="nofollow noopener noreferrer">DDOS</a>和伪装就叫：CC(Challenge Collapsar)。</div>
 <div class="para">CC主要是用来攻击页面的。大家都有这样的经历，就是在访问论坛时，如果这个论坛比较大，访问的人比较多，打开页面的速度会比较慢，访问的人越多，论坛的页面越多，数据库压力就越大，被访问的频率也越高，占用的系统资源也就相当可观。</div>
 </div>
 <div class="lemmaWgt-promotion-leadPVBtn"></div>
@@ -59,7 +58,7 @@
 <dt class="basicInfo-item name">模    式</dt>
 <dd class="basicInfo-item value">模拟多个用户不停的进行访问</dd>
 <dt class="basicInfo-item name">工    具</dt>
-<dd class="basicInfo-item value"><a href="./../../../go/1982/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="97996">代理服务器</a></dd>
+<dd class="basicInfo-item value"><a href="https://blog.luyaoguagua.top/go/1982" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="97996">代理服务器</a></dd>
 <dt class="basicInfo-item name">影    响</dt>
 <dd class="basicInfo-item value">攻击页面</dd>
 </dl>
@@ -69,19 +68,17 @@
 <h2 class="block-title">目录</h2>
 <div class="catalog-list column-1">
 <ol>
-<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../../go/1012/index.html" rel="nofollow">原理</a></span></li>
-<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../../go/5004/index.html" rel="nofollow">防CC攻击</a></span></li>
-<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../../go/0650/index.html" rel="nofollow">攻击症状</a></span></li>
-<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../../go/1237/index.html" rel="nofollow">防御方法</a></span></li>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/1012" rel="nofollow">原理</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/5004" rel="nofollow">防CC攻击</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/0650" rel="nofollow">攻击症状</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/1237" rel="nofollow">防御方法</a></span></li>
 </ol>
 </div>
 </div>
 </div>
-<p><a rel="nofollow" href="./../../../cms/challenge-collapsar/cc.html">什么是cc攻击？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/cms/challenge-collapsar/cc.html">什么是cc攻击？</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../cms/challenge-collapsar/cc.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

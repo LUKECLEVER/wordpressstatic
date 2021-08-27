@@ -1,7 +1,7 @@
 @font-face {
   font-family: fell-icon-font;
-  src: url("./fell-icon-font.eot");
-  src: url("./fell-icon-font.eot#iefix") format("embedded-opentype"), url("./fell-icon-font.woff") format("woff"), url("./fell-icon-font.ttf") format("truetype"), url("./fell-icon-font.svg#fell-icon-font") format("svg");
+  src: url("https://blog.luyaoguagua.top/wp-content/themes/fell/assets/fonts/fell-icon-font/fell-icon-font.eot");
+  src: url("https://blog.luyaoguagua.top/wp-content/themes/fell/assets/fonts/fell-icon-font/fell-icon-font.eot#iefix") format("embedded-opentype"), url("https://blog.luyaoguagua.top/wp-content/themes/fell/assets/fonts/fell-icon-font/fell-icon-font.woff") format("woff"), url("https://blog.luyaoguagua.top/wp-content/themes/fell/assets/fonts/fell-icon-font/fell-icon-font.ttf") format("truetype"), url("https://blog.luyaoguagua.top/wp-content/themes/fell/assets/fonts/fell-icon-font/fell-icon-font.svg#fell-icon-font") format("svg");
   font-weight: normal;
   font-style: normal;
 }

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>html &#8211; 陆尧顶瓜瓜</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://blog.luyaoguagua.top/list/programming-language/html/feed" rel="self" type="application/rss+xml" />
+	<link>https://blog.luyaoguagua.top/</link>
 	<description>计算机&#124;电脑&#124;信息技术&#124;编程&#124;网站建设</description>
-	<lastBuildDate>Mon, 16 Aug 2021 11:22:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Aug 2021 14:04:07 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,16 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
+	<url>https://blog.luyaoguagua.top/wp-content/uploads/2021/08/favicongua未压缩.jpg</url>
 	<title>html &#8211; 陆尧顶瓜瓜</title>
-	<link>./../../../index.html</link>
+	<link>https://blog.luyaoguagua.top/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>十进制转二进制</title>
-		<link>./../../../programming-language/c-language/decimal-to-binary.html</link>
-					<comments>./../../../programming-language/c-language/decimal-to-binary.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/programming-language/c-language/decimal-to-binary.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2020 01:24:53 +0000</pubDate>
@@ -42,7 +41,7 @@
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=921</guid>
 
 					<description><![CDATA[<p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
-<p><a rel="nofollow" href="./../../../programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>十进制数转换为二进制数时，由于整数和小数的转换方法不同，所以先将十进制数的整数部分和小数部分分别转换后，再加以合并。</p>
@@ -69,23 +68,20 @@
 
 
 
-<ol><li>1&nbsp;<a href="./../../../go/2137/index.html" rel="nofollow">二进制转十进制</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../../go/7102/index.html" rel="nofollow">方法一</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="./../../../go/4780/index.html" rel="nofollow">方法二</a></li><li>2&nbsp;<a href="./../../../go/9953/index.html" rel="nofollow">十进制转二进制</a></li></ol>
+<ol><li>1&nbsp;<a href="https://blog.luyaoguagua.top/go/2137" rel="nofollow">二进制转十进制</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="https://blog.luyaoguagua.top/go/7102" rel="nofollow">方法一</a></li><li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;<a href="https://blog.luyaoguagua.top/go/4780" rel="nofollow">方法二</a></li><li>2&nbsp;<a href="https://blog.luyaoguagua.top/go/9953" rel="nofollow">十进制转二进制</a></li></ol>
 
 
 
 <p></p>
-<p><a rel="nofollow" href="./../../../programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/c-language/decimal-to-binary.html">十进制转二进制</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../programming-language/c-language/decimal-to-binary.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>什么是HTML？</title>
-		<link>./../../../programming-language/html/html.html</link>
-					<comments>./../../../programming-language/html/html.html#respond</comments>
+		<link>https://blog.luyaoguagua.top/programming-language/html/html.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 20 May 2020 08:10:33 +0000</pubDate>
@@ -93,10 +89,10 @@
 		<guid isPermaLink="false">https://luyaoguagua.top/?p=658</guid>
 
 					<description><![CDATA[<p>HTML称为超文本标记语言，是一种标识性的语言。它包括一系列标签．通过这些标签可以将网络上的文档格式统一，使分散的Internet资源连接为一个逻辑整体。</p>
-<p><a rel="nofollow" href="./../../../programming-language/html/html.html">什么是HTML？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/html/html.html">什么是HTML？</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="lemma-summary">
-<div class="para">HTML称为<a href="./../../../go/9965/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2832422">超文本</a>标记语言，是一种标识性的语言。它包括一系列标签．通过这些标签可以将网络上的文档格式统一，使分散的<a href="./../../../go/4996/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="272794">Internet</a>资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明<a href="./../../../go/4965/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="612910">文字</a>，<a href="./../../../go/5351/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="773307">图形</a>、<a href="./../../../go/7510/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="206564">动画</a>、<a href="./../../../go/5139/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="33686">声音</a>、<a href="./../../../go/5992/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="3371820">表格</a>、<a href="./../../../go/3261/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2665501">链接</a>等。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_692"></a></div>
+<div class="para">HTML称为<a href="https://blog.luyaoguagua.top/go/9965" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2832422">超文本</a>标记语言，是一种标识性的语言。它包括一系列标签．通过这些标签可以将网络上的文档格式统一，使分散的<a href="https://blog.luyaoguagua.top/go/4996" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="272794">Internet</a>资源连接为一个逻辑整体。HTML文本是由HTML命令组成的描述性文本，HTML命令可以说明<a href="https://blog.luyaoguagua.top/go/4965" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="612910">文字</a>，<a href="https://blog.luyaoguagua.top/go/5351" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="773307">图形</a>、<a href="https://blog.luyaoguagua.top/go/7510" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="206564">动画</a>、<a href="https://blog.luyaoguagua.top/go/5139" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="33686">声音</a>、<a href="https://blog.luyaoguagua.top/go/5992" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="3371820">表格</a>、<a href="https://blog.luyaoguagua.top/go/3261" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2665501">链接</a>等。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_692"></a></div>
 <div class="para">超文本是一种组织信息的方式，它通过超级链接方法将文本中的文字、图表与其他信息媒体相关联。这些相互关联的信息媒体可能在同一文本中，也可能是其他文件，或是地理位置相距遥远的某台计算机上的文件。这种组织信息方式将分布在不同位置的信息资源用随机方式进行连接，为人们查找，检索信息提供方便。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,"> [1]</sup><a class="sup-anchor" name="ref_[1]_692"></a></div>
 </div>
 <div class="lemmaWgt-promotion-leadPVBtn"></div>
@@ -108,15 +104,15 @@
 <dt class="basicInfo-item name">外文名</dt>
 <dd class="basicInfo-item value">Hyper Text Markup Language</dd>
 <dt class="basicInfo-item name">类    型</dt>
-<dd class="basicInfo-item value"><a href="./../../../go/3221/index.html" target="_blank" rel="nofollow noopener noreferrer">标记语言</a></dd>
+<dd class="basicInfo-item value"><a href="https://blog.luyaoguagua.top/go/3221" target="_blank" rel="nofollow noopener noreferrer">标记语言</a></dd>
 </dl>
 <dl class="basicInfo-block basicInfo-right">
 <dt class="basicInfo-item name">阅读方式</dt>
-<dd class="basicInfo-item value"><a href="./../../../go/7538/index.html" target="_blank" rel="nofollow noopener noreferrer">网页浏览器</a></dd>
-<dt class="basicInfo-item name">中文<a href="./../../../go/4133/index.html" target="_blank" rel="nofollow noopener noreferrer">缩写</a></dt>
-<dd class="basicInfo-item value"><a href="./../../../go/9965/index.html" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2832422">超文本</a>标记语言</dd>
-<dt class="basicInfo-item name"><a href="./../../../go/0335/index.html" target="_blank" rel="nofollow noopener noreferrer">外语</a><a href="./../../../go/4133/index.html" target="_blank" rel="nofollow noopener noreferrer">缩写</a></dt>
-<dd class="basicInfo-item value">HTML或HTM（都作<a href="./../../../go/4351/index.html" target="_blank" rel="nofollow noopener noreferrer">文件扩展名</a>）</dd>
+<dd class="basicInfo-item value"><a href="https://blog.luyaoguagua.top/go/7538" target="_blank" rel="nofollow noopener noreferrer">网页浏览器</a></dd>
+<dt class="basicInfo-item name">中文<a href="https://blog.luyaoguagua.top/go/4133" target="_blank" rel="nofollow noopener noreferrer">缩写</a></dt>
+<dd class="basicInfo-item value"><a href="https://blog.luyaoguagua.top/go/9965" target="_blank" rel="nofollow noopener noreferrer" data-lemmaid="2832422">超文本</a>标记语言</dd>
+<dt class="basicInfo-item name"><a href="https://blog.luyaoguagua.top/go/0335" target="_blank" rel="nofollow noopener noreferrer">外语</a><a href="https://blog.luyaoguagua.top/go/4133" target="_blank" rel="nofollow noopener noreferrer">缩写</a></dt>
+<dd class="basicInfo-item value">HTML或HTM（都作<a href="https://blog.luyaoguagua.top/go/4351" target="_blank" rel="nofollow noopener noreferrer">文件扩展名</a>）</dd>
 </dl>
 </div>
 <div class="lemmaWgt-lemmaCatalog">
@@ -124,33 +120,31 @@
 <h2 class="block-title">目录</h2>
 <div class="catalog-list column-3">
 <ol>
-<li class="level1"><span class="index">1</span> <span class="text"><a href="./../../../go/8856/index.html" rel="nofollow">简介</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/4734/index.html" rel="nofollow">由来</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/8568/index.html" rel="nofollow">定义</a></span></li>
-<li class="level1"><span class="index">2</span> <span class="text"><a href="./../../../go/5621/index.html" rel="nofollow">HTML版本</a></span></li>
-<li class="level1"><span class="index">3</span> <span class="text"><a href="./../../../go/4245/index.html" rel="nofollow">特点</a></span></li>
+<li class="level1"><span class="index">1</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/8856" rel="nofollow">简介</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/4734" rel="nofollow">由来</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/8568" rel="nofollow">定义</a></span></li>
+<li class="level1"><span class="index">2</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/5621" rel="nofollow">HTML版本</a></span></li>
+<li class="level1"><span class="index">3</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/4245" rel="nofollow">特点</a></span></li>
 </ol>
 <ol>
-<li class="level1"><span class="index">4</span> <span class="text"><a href="./../../../go/4307/index.html" rel="nofollow">编辑方式</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/9045/index.html" rel="nofollow">编辑</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/4773/index.html" rel="nofollow">字符集</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/0618/index.html" rel="nofollow">数据类型</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/4726/index.html" rel="nofollow">常见实体</a></span></li>
+<li class="level1"><span class="index">4</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/4307" rel="nofollow">编辑方式</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/9045" rel="nofollow">编辑</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/4773" rel="nofollow">字符集</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/0618" rel="nofollow">数据类型</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/4726" rel="nofollow">常见实体</a></span></li>
 </ol>
 <ol>
-<li class="level1"><span class="index">5</span> <span class="text"><a href="./../../../go/7106/index.html" rel="nofollow">整体结构</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/0979/index.html" rel="nofollow">头部内容</a></span></li>
-<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="./../../../go/7558/index.html" rel="nofollow">主体内容</a></span></li>
-<li class="level1"><span class="index">6</span> <span class="text"><a href="./../../../go/6783/index.html" rel="nofollow">相关要求</a></span></li>
+<li class="level1"><span class="index">5</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7106" rel="nofollow">整体结构</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/0979" rel="nofollow">头部内容</a></span></li>
+<li class="level2"><span class="index"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/25aa.png" alt="▪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span> <span class="text"><a href="https://blog.luyaoguagua.top/go/7558" rel="nofollow">主体内容</a></span></li>
+<li class="level1"><span class="index">6</span> <span class="text"><a href="https://blog.luyaoguagua.top/go/6783" rel="nofollow">相关要求</a></span></li>
 </ol>
 </div>
 </div>
 </div>
-<p><a rel="nofollow" href="./../../../programming-language/html/html.html">什么是HTML？</a>最先出现在<a rel="nofollow" href="./../../../index.html">陆尧顶瓜瓜</a>。</p>
+<p><a rel="nofollow" href="https://blog.luyaoguagua.top/programming-language/html/html.html">什么是HTML？</a>最先出现在<a rel="nofollow" href="https://blog.luyaoguagua.top/">陆尧顶瓜瓜</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../programming-language/html/html.html/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
